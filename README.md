@@ -1,5 +1,9 @@
 ### Hi there 👋
-### 👋👋👋👋
+### I am Anastasia Ostapenko, beginner developer from Ukraine 😊
+### I want to find a starter company for my career. І am ready to work non-standard work schedule. I want to study and develop in this specialty.
+
+### How to contact me?
+###   ✔️ telegram: @Anastasia_Ost
 
 <!--
 **anastasiaOst/anastasiaOst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
